@@ -236,6 +236,7 @@ Tools and scripts to support deployments to your servers.
 - [CloudSlang](https://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities. ([Source Code](https://github.com/CloudSlang/score)) `Apache-2.0` `Java`
 - [CloudStack](https://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services. ([Source Code](https://github.com/apache/cloudstack)) `Apache-2.0` `Java/Python`
 - [Cobbler](https://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. ([Source Code](https://github.com/cobbler/cobbler)) `GPL-2.0` `Python`
+- [Digger](https://github.com/diggerhq/digger) - Digger is an open-source, self-hosted, orchestration tool for Terraform and OpenTofu that runs within your CI/CD system. ([Source Code](https://github.com/diggerhq/digger)) `Apache-2.0` `Go`
 - [Fabric](https://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks. ([Source Code](https://github.com/fabric/fabric)) `BSD-2-Clause` `Python`
 - [Genesis](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments. `MIT` `Perl`
 - [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based). ([Source Code](https://github.com/mina-deploy/mina)) `MIT` `Ruby`
